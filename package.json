@@ -1,0 +1,12 @@
+{
+  "name": "parcel-test-dynamic",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "serve": "parcel index.html"
+  },
+  "dependencies": {
+    "parcel-bundler": "^1.4.1"
+  }
+}
